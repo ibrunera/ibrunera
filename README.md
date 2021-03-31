@@ -4,7 +4,7 @@
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=ibrunera&show_icons=true&locale=en&=true&theme=dark" alt="ibrunera" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunera&layout=compact&how_icons=true&theme=dark&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunera&layout=compact&how_icons=true&theme=dark&hide=java,objectivec)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <a href="https://github.com/ibrunera">
