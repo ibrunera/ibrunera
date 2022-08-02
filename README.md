@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning NextJs, React at Rocketseat - Ignite
+- 🌱 I’m currently learning Salesforce Marketing Cloud
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=ibrunera&show_icons=true&locale=en&=true&theme=dark" alt="ibrunera" /></p>
 
